@@ -46,6 +46,7 @@ function DebouncingExamplePage() {
                 type='text'
                 id='search'
                 value={searchQuery}
+                placeholder='London'
                 onChange={(e) => setSearchQuery(e.target.value)}
               />
             </FormGroup>
