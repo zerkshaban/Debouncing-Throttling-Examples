@@ -55,7 +55,7 @@ git clone https://github.com/zerkshaban/Debouncing-Throttling-Examples.git
 
 2. Navigate to the project directory:
 ```bash
-cd debounce-example-app
+cd debounce-throttling-example-app
 ```
 
 3. Install dependencies:
