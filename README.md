@@ -1,5 +1,3 @@
-# Debouncing-Throttling-Examples
-
 # Debounce and Throttling Example Application
 
 A React application demonstrating the practical implementation of debouncing and throttling techniques in real-world scenarios. This project showcases how these performance optimization techniques can be used to handle frequent events efficiently.
@@ -52,7 +50,7 @@ A React application demonstrating the practical implementation of debouncing and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/debounce-example-app.git
+git clone https://github.com/zerkshaban/Debouncing-Throttling-Examples.git
 ```
 
 2. Navigate to the project directory:
